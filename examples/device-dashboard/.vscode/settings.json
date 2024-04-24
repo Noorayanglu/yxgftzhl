@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "mbs.h": "c",
+        "modbus.h": "c",
+        "mbctx.h": "c",
+        "port.h": "c"
+    }
+}
